@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autolib",
+  "name": "The AutoLib Mod",
+  "description": "Example placeholder mod.",
+  "version": "${1.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vinyarion"],
+  "credits": "Vinyarion",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
